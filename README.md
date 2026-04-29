@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/go-grpc-service)
+![Version](https://img.shields.io/github/package-json/v/leeydev/go-grpc-service)
+
 # go-grpc-service
 
 Professional gRPC Service built with Go.
